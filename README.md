@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @donovano
 - 👀 I’m interested in privacy and security
-- 🌱 I’m currently learning too many to mention
+- 🌱 I’m currently learning too many things to list here
 - 💞️ I’m looking to collaborate on my own project, r8it
 - 📫 How to reach me donovanohara@gmail.com
 
