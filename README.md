@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @donovano
-- 👀 I’m interested in programming in C, C++, Python, Golang, Rust etc for networking, security and anything else that I fancy...
+- 👀 I’m a mystery...
 - 📫 How to reach me donovanohara@gmail.com
 
 <!---
